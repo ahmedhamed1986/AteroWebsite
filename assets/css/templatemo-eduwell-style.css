@@ -687,6 +687,12 @@ section.main-banner {
 .main-banner .right-image img {
   position: relative;
   z-index: 2;
+  
+}
+
+.right-image img {
+  transform: scaleX(-1);
+  border-radius: 80px;
 }
 
 .main-banner .right-image::after {
