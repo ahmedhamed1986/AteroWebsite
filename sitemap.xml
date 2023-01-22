@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
   <loc>https://www.aterosolutions.com/index.html</loc>
 </url>
 <url>
-  <loc>https://www.aterosolutions.com/engineering-solutions.html</loc>
+  <loc>https://www.aterosolutions.com/./engineering-solutions.html</loc>
 </url>
 <url>
   <loc>https://www.aterosolutions.com/about-us.html</loc>
@@ -18,4 +20,8 @@
 <url>
   <loc>https://www.aterosolutions.com/contact-us.html</loc>
 </url>
-</urlset>
+<url>
+  <loc>https://www.aterosolutions.com/engineering-solutions.html</loc>
+  <priority>0.1</priority>
+</url>
+</urlset></urlset>
