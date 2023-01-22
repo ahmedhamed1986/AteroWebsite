@@ -1,27 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+
+Results
+Sitemap Generated
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
   <loc>https://www.aterosolutions.com/index.html</loc>
-</url>
-<url>
-  <loc>https://www.aterosolutions.com/./engineering-solutions.html</loc>
-</url>
-<url>
-  <loc>https://www.aterosolutions.com/about-us.html</loc>
-</url>
-<url>
-  <loc>https://www.aterosolutions.com/privacy.html</loc>
-</url>
-<url>
-  <loc>https://www.aterosolutions.com/terms.html</loc>
-</url>
-<url>
-  <loc>https://www.aterosolutions.com/contact-us.html</loc>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>https://www.aterosolutions.com/engineering-solutions.html</loc>
-  <priority>0.1</priority>
+  <priority>0.7</priority>
 </url>
-</urlset></urlset>
+<url>
+  <loc>https://www.aterosolutions.com/about-us.html</loc>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://www.aterosolutions.com/privacy.html</loc>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.aterosolutions.com/terms.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.aterosolutions.com/contact-us.html</loc>
+  <priority>0.6</priority>
+</url>
+</urlset>
